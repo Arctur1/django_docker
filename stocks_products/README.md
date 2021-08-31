@@ -1,1 +1,1 @@
-docker-compose up -d
+docker build . --tag djangoweb
